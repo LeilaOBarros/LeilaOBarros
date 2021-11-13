@@ -1,4 +1,4 @@
-### Olá! Eu sou a Leila Barros..
+### Olá! Meu nome é Leila Barros..
 
 ##
 
@@ -15,12 +15,16 @@
   <a href="https://www.linkedin.com/in/leila-barroos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+##
 
 ### Sobre mim:
 
 - 📚 Estudante de Sistemas de Informação na Faculdade UNIP.
 - 🔭 Atualmente estou em busca de um estágio na área de desenvolvimento.
-- 🌱 Estudando HTML, CSS e Javascript.
-- 🧶 Sempre buscando novos desafio para adquirir conhecimento.
+- 🌱 Estudando HTML, CSS, Javascript e Banco de Dados.
+- 🧶 Sempre buscando novos desafios para adquirir conhecimento.
+  
+ ##
 
 
