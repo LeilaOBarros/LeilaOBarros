@@ -13,7 +13,10 @@
 <div> 
   <a href = "mailto:leila.barros20014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leila-barroos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<br>
+  
+##
+  <a href="https://drive.google.com/file/d/1FRiT9FrfeU4pfL32F5jwqoBFZ9t_xZ_N/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/345/345609.png" width=200><a>
 </div>
   
 ##
