@@ -16,7 +16,7 @@
 <br>
   
 ##
-  <a href="https://drive.google.com/file/d/1FRiT9FrfeU4pfL32F5jwqoBFZ9t_xZ_N/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/345/345609.png" width=200><a>
+  <a href="https://drive.google.com/file/d/1FRiT9FrfeU4pfL32F5jwqoBFZ9t_xZ_N/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/345/345609.png" width=150><a>
 </div>
   
 ##
