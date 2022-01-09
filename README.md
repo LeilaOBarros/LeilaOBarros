@@ -23,7 +23,7 @@
 
 ### Sobre mim:
 
-- 📚 Estudante de Sistemas de Informação na Faculdade UNIP.
+- 📚 Estudante de Sistemas de Informação na Faculdade UNIP(5° semestre).
 - 🔭 Atualmente estou em busca de um estágio na área de desenvolvimento.
 - 🌱 Estudando HTML, CSS, Javascript e Banco de Dados.
 - 🧶 Sempre buscando novos desafios para adquirir conhecimento.
