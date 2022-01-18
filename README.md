@@ -1,11 +1,11 @@
-### Olá! Meu nome é Leila Barros..
+### Olá! Meu nome é Leila..
 
 ##
 
 <div align="center">
   <a href="https://github.com/LeilaOBarros">
   <img height="350em" src="https://c.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"/> <br><hr><br>
-  <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilaobarros&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilaobarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  ##
