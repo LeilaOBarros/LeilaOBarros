@@ -28,8 +28,6 @@
  🤟 Sempre buscando novos desafios para adquirir conhecimento. <br>
 🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática.. <br>
 ☯️ Qualidades Pessoais: Paciente, organizada, persistente. 
-    
-<hr>
   
  ##
 
