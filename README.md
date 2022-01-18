@@ -22,12 +22,14 @@
 
 ### Sobre mim:
 
-📚 Estudante de Sistemas de Informação na Faculdade UNIP(5° semestre).
-🔭 Em busca de um estágio na área de desenvolvimento para me desenvolver profissionalmente e pessoalmente.
-🌱 Atualmente estudando as tecnologias: HTML, CSS, Javascript e Banco de Dados.
- 🤟 Sempre buscando novos desafios para adquirir conhecimento.
-🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática..
-☯️ Qualidades Pessoais: Paciente, organizada, persistente.
+📚 Estudante de Sistemas de Informação na Faculdade UNIP(5° semestre). <br>
+🔭 Em busca de um estágio na área de desenvolvimento para me desenvolver profissionalmente e pessoalmente. <br>
+🌱 Atualmente estudando as tecnologias: HTML, CSS, Javascript e Banco de Dados. <br>
+ 🤟 Sempre buscando novos desafios para adquirir conhecimento. <br>
+🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática.. <br>
+☯️ Qualidades Pessoais: Paciente, organizada, persistente. 
+    
+<hr>
   
  ##
 
