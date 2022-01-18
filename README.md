@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/LeilaOBarros">
-  <img height="350em" src="https://c.tenor.com/rkY5QA5c3VAAAAAM/gato-digitando.gif"/> <br><hr><br>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilaobarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -23,10 +22,12 @@
 
 ### Sobre mim:
 
-- 📚 Estudante de Sistemas de Informação na Faculdade UNIP(5° semestre).
-- 🔭 Atualmente estou em busca de um estágio na área de desenvolvimento.
-- 🌱 Estudando HTML, CSS, Javascript e Banco de Dados.
-- 🧶 Sempre buscando novos desafios para adquirir conhecimento.
+📚 Estudante de Sistemas de Informação na Faculdade UNIP(5° semestre).
+🔭 Em busca de um estágio na área de desenvolvimento para me desenvolver profissionalmente e pessoalmente.
+🌱 Atualmente estudando as tecnologias: HTML, CSS, Javascript e Banco de Dados.
+ 🤟 Sempre buscando novos desafios para adquirir conhecimento.
+🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática..
+☯️ Qualidades Pessoais: Paciente, organizada, persistente.
   
  ##
 
