@@ -2,7 +2,7 @@
 
 📚 Estudante de Sistemas de Informação pela Universidade Paulista (5° semestre). <br>
 🔭 Em busca de um estágio na área de desenvolvimento para me desenvolver. <br>
-🌱 Atualmente estudando as tecnologias: HTML, CSS, Javascript e Banco de Dados. <br>
+🌱 Atualmente estudando as tecnologias: HTML, CSS, Git e GitHub <br>
 🤟 Sempre buscando novos desafios para adquirir conhecimento. <br>
 🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática.. <br>
 ☯️ Qualidades Pessoais: Paciente, organizada, persistente. 
