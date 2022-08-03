@@ -1,11 +1,11 @@
 <h1> Olá! Meu nome é Leila..ヅ </h1>
 
-📚 Estudante de Sistemas de Informação pela Universidade Paulista (5° semestre). <br>
-🔭 Em busca de um estágio na área de desenvolvimento para me desenvolver. <br>
-🌱 Atualmente estudando as tecnologias: HTML, CSS e Git. <br>
+📚 Estudante de Sistemas de Informação pela Universidade Paulista (6° semestre). <br>
+🔭 Trabalhando na empresa XCL como estagiário de tecnologia da informação <br>
+🌱 Atualmente estudando as tecnologias: Salesforce, Java e SQL <br>
 🤟 Sempre buscando novos desafios para adquirir conhecimento. <br>
 🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática.. <br>
-☯️ Qualidades Pessoais: Paciente, organizada, persistente. 
+☯️ Qualidades Pessoais: Paciente, organizada, persistente. <br>
 🗯️ Além de tecnologia me interesso por assuntos como investimentos, sneakers e jogos FPS.
 
 ##
