@@ -6,7 +6,7 @@
 🤟 Sempre buscando novos desafios para adquirir conhecimento. <br>
 🧶 Cursos Extracurriculares: HTML5 e CSS3 Básico, Algoritmos, Java Básico, MySQL, Excel, Informática.. <br>
 ☯️ Qualidades Pessoais: Paciente, organizada, persistente. <br>
-🗯️ Além de tecnologia me interesso por assuntos como investimentos, sneakers e jogos FPS.
+🗯️ Além de tecnologia me interesso por assuntos como investimentos, sneakers, gastronomia e jogos FPS.
 
 ##
 
